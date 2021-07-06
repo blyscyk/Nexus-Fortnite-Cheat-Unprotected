@@ -6,7 +6,7 @@ but whats special about it is that Micca#1338 the skid clown didnt protect it wh
 
 WHAT THIS MEANS IS :
 
-u can get all the sigs and even decompile the cheat witohut any problem lol
+u can get all the sigs/offsets
 
 just load in x64dbg or ida go to the entrypoint and boom ! all the sigs and stuff are for u!
 
